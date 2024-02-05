@@ -5,7 +5,7 @@
   - windowsの場合
     - ```bash
       .\[newenvname]\Scripts\activate
-     ```
+      ```
   - ubuntuの場合
     - ```bash
       source [newenvname]/bin/activate
