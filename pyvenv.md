@@ -3,7 +3,7 @@
 ### コード各種
 - 仮想環境に入る
 -   windowsの場合
-  -  ```bash
+  - ```bash
       \[newenvname]\Scripts\activate
      ```
      
