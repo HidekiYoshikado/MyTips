@@ -19,7 +19,7 @@
   - ```tex
     \usepackage[dvipdfmx]{xcolor} %図をカラーで出力
     ```
-- 図表の幅を指定する
+- 図表の幅を指定する（2段組みでも適用可）
   - ```tex
     \includegraphics[width=\linewidth]
     ```
