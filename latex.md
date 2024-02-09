@@ -32,4 +32,13 @@
 - 参考文献を順番に並べる
   - ```tex
     \bibliographystyle{junsrt}　% 参考文献を順番に
-    ```  
+    ```
+### 細かいこと
+- 「～」は
+  - ```tex
+    $\sim$
+    ```
+- 複数章がある場合は
+  - ```tex
+    \input{include/chap1}
+    ```
