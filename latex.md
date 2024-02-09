@@ -19,9 +19,13 @@
   - ```tex
     \usepackage[dvipdfmx]{xcolor} %図をカラーで出力
     ```
-### リンクとか
+### 参考文献
 - 参考文献にリンクを乗せるためのプリアンブル
   - ```tex
     \usepackage{hyperref} %参考文献のリンクの体裁用
     \usepackage{breakurl}
     ```
+- 参考文献を順番に並べる
+  - ```tex
+    \bibliographystyle{junsrt}　% 参考文献を順番に
+    ```  
