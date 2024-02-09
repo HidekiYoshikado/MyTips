@@ -19,6 +19,10 @@
   - ```tex
     \usepackage[dvipdfmx]{xcolor} %図をカラーで出力
     ```
+- 図表の幅を指定する
+  - ```tex
+    \includegraphics[width=\linewidth]
+    ```
 ### 参考文献
 - 参考文献にリンクを乗せるためのプリアンブル
   - ```tex
