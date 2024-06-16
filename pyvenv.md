@@ -3,7 +3,7 @@
 ### コード各種
 - 仮想環境の作成
   - ```
-    python3 -m venv [newenvname]
+    python -m venv [newenvname]
     ```
   - こうすると，実行パス直下に[newenvname]のフォルダが生成される
 - 仮想環境に入る
